@@ -1,0 +1,7 @@
+C:\Users\cosmo\Source\Repos\Throphet\Unharmful-Spam-App\TryMe\bin\Debug\TryMe.exe.config
+C:\Users\cosmo\Source\Repos\Throphet\Unharmful-Spam-App\TryMe\bin\Debug\TryMe.exe
+C:\Users\cosmo\Source\Repos\Throphet\Unharmful-Spam-App\TryMe\bin\Debug\TryMe.pdb
+C:\Users\cosmo\Source\Repos\Throphet\Unharmful-Spam-App\TryMe\obj\Debug\TryMe.csprojAssemblyReference.cache
+C:\Users\cosmo\Source\Repos\Throphet\Unharmful-Spam-App\TryMe\obj\Debug\TryMe.csproj.CoreCompileInputs.cache
+C:\Users\cosmo\Source\Repos\Throphet\Unharmful-Spam-App\TryMe\obj\Debug\TryMe.exe
+C:\Users\cosmo\Source\Repos\Throphet\Unharmful-Spam-App\TryMe\obj\Debug\TryMe.pdb
